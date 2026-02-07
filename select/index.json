@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "空想フォレスト（feat. ヨシダタクミ）",
+  "base_artist": "じん ft.ヨシダタクミ(phatmans after school)",
+  "createdAt": "2026-02-07T07:21:03.251077Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "空想フォレスト",
+      "artist": "じん feat.ヨシダタクミ (phatmans after school)",
+      "has_synced": false,
+      "path": "select/pl_01_空想フォレスト_じん_feat.ヨシダタクミ_(phatmans_after_school).txt"
+    }
+  ]
+}
