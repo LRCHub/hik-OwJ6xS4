@@ -1,16 +1,32 @@
 {
   "version": 1,
-  "base_track": "空想フォレスト（feat. ヨシダタクミ）",
-  "base_artist": "じん ft.ヨシダタクミ(phatmans after school)",
-  "createdAt": "2026-02-07T07:22:28.671541Z",
+  "base_track": "空想フォレスト",
+  "base_artist": "じん",
+  "createdAt": "2026-03-11T15:53:39.073408Z",
   "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "空想フォレスト",
+      "artist": "Kashitaro Ito",
+      "has_synced": true,
+      "path": "select/01_空想フォレスト_Kashitaro_Ito.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "空想フォレスト",
+      "artist": "伊東歌詞太郎",
+      "has_synced": true,
+      "path": "select/02_空想フォレスト_伊東歌詞太郎.lrc"
+    },
     {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
       "title": "空想フォレスト",
-      "artist": "じん feat.ヨシダタクミ (phatmans after school)",
+      "artist": "じん",
       "has_synced": false,
-      "path": "select/pl_01_空想フォレスト_じん_feat.ヨシダタクミ_(phatmans_after_school).txt"
+      "path": "select/pl_01_空想フォレスト_じん.txt"
     }
   ]
 }
